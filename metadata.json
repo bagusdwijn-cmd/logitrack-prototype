@@ -1,0 +1,8 @@
+{
+  "name": "LogiTrack - Internal Food Distribution Prototype",
+  "description": "A modern web-based Delivery Order Management System prototype featuring real-time courier tracking, warehouse workflows, and admin analytics for food distribution logistics.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
